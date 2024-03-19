@@ -1,1 +1,1 @@
-# Basic-s-of-JAVA
+# Basics-of-JAVA
